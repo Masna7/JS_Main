@@ -1,1 +1,3 @@
-file created on githuh
+file created on github
+updated index file
+created a new branch
